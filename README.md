@@ -18,4 +18,4 @@ When the given word is a noun, the most common adjectives describing the noun ar
 4. All requests have a status code. The status code '200' tells us that everything was successful. A status code starting with '4' or '5' means something went wrong. A common example of this is '404 error: file not found'. 
 
 ### Resources
-[Prashant Xavier] (https://medium.com/quick-code/absolute-beginners-guide-to-slaying-apis-using-python-7b380dc82236) and [Josh Devlin](https://www.dataquest.io/blog/python-api-tutorial/) have made incredibly helpful tutorials on getting started with APIs in Python. 
+[Prashant Xavier](https://medium.com/quick-code/absolute-beginners-guide-to-slaying-apis-using-python-7b380dc82236) and [Josh Devlin](https://www.dataquest.io/blog/python-api-tutorial/) have made incredibly helpful tutorials on getting started with APIs in Python. 
