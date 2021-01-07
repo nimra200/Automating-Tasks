@@ -1,8 +1,8 @@
 from twilio.rest import Client
 import requests
 
-account_sid = 'AC88f37128bf012799675177ce00e4c02e'
-auth_token = 'a677f41c3cf8489a925e8b19cd2c9c73'
+account_sid = '' # Removed account id for privacy purposes 
+auth_token = '' # Removed auth_token for privacy purposes 
 
 client = Client(account_sid, auth_token) # ensure proper authentication
 
