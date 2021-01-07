@@ -2,10 +2,11 @@
 
 This mini-project served as an introduction to using APIs in Python. 
 
-The [Datamuse API](https://www.datamuse.com/api/) lets developers find English words that may be useful in a given context.
-
-This program asks the user to input a word, and returns a few words commonly associated with it.
+The program in *word.py* asks the user to input a word, and returns a few words commonly associated with it.
 When the given word is a noun, the most common adjectives describing the noun are also given. 
+This file uses [Datamuse API](https://www.datamuse.com/api/), which lets developers find English words that may be useful in a given context.
+
+The program in *send-sms.py* sends an SMS to myself, informing me of how many people are currently in outer space. 
 
 ### Key concepts learned in this project:
 
